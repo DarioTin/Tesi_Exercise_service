@@ -17,6 +17,8 @@
 		<java.version>17</java.version>
 		<start-class>com.dariotintore.tesi.exerciseservice.ExerciseserviceApplication</start-class>
 		<spring-cloud.version>2021.0.0</spring-cloud.version>
+		   <maven.compiler.source>16</maven.compiler.source>
+		   <maven.compiler.target>16</maven.compiler.target>
 	</properties>
 
 
