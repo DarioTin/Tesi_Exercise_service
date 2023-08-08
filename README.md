@@ -8,3 +8,5 @@ mvn clean install
 ```
 docker image build -t exercise-service .
 ```
+docker tag exercise-service dariotintore/exercise-service
+docker push dariotintore/exercise-service
